@@ -11,10 +11,10 @@ like this image :
 
 Algorithms Implemented
 
-Optimal
-FIFO
-LRU
-CLOCK
+Optimal 
+FIFO 
+LRU 
+CLOCK 
 
 
 ---
