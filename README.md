@@ -12,11 +12,8 @@ like this image :
 Algorithms Implemented
 
 Optimal
-
 FIFO
-
 LRU
-
 CLOCK
 
 
