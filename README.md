@@ -9,7 +9,7 @@ like this image :
 ----------
 
 
-Algorithms Implemented
+# Algorithms Implemented
 
 Optimal 
 
